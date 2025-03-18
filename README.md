@@ -13,8 +13,6 @@
 
 - 📄 Linked-in Profile [https://www.linkedin.com/in/mostafaahmedgalal/](https://www.linkedin.com/in/mostafaahmedgalal/)
 
-- 💬 Ask me about **Spring Boot**
-
 - 📫 How to reach me **mostafaahmed96320@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eaqKCpKEslTseCrjHp8T1pCqL9gySMrU/view?usp=share_link](https://drive.google.com/file/d/1eaqKCpKEslTseCrjHp8T1pCqL9gySMrU/view?usp=share_link)
