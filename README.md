@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on bachelor paper
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning
 
 - 📄 Linked-in Profile [https://www.linkedin.com/in/mostafaahmedgalal/](https://www.linkedin.com/in/mostafaahmedgalal/)
 
 - 📫 How to reach me **mostafaahmed96320@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eaqKCpKEslTseCrjHp8T1pCqL9gySMrU/view?usp=share_link](https://drive.google.com/file/d/1eaqKCpKEslTseCrjHp8T1pCqL9gySMrU/view?usp=share_link)
+- 📄 Know about my experiences [From my resume](https://drive.google.com/file/d/19HCmARMzoHwDj37vnMtn_gGtDV63DRVV/view?usp=sharing)
 
 - ⚡ Fun fact **java > c++**
 
